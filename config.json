@@ -1,0 +1,25 @@
+{
+  "apps": {
+    "com.tubidymusic.mp3downloader": {
+      "update": {
+        "enabled": false,
+        "version_code": 10,
+        "version_name": "1.0.10",
+        "package_url": "https://example.com/app/1.0.10"
+      },
+
+      "ads": {
+        "enabled": true,
+        "network": "AdMob",
+        "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+        "max_interstitial_clicks": 3
+      },
+
+      "features": {
+        "music_streaming_enabled": false,
+        "download_enabled": true
+      }
+    }
+  }
+}
