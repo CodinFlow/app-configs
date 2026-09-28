@@ -1,6 +1,6 @@
 {
   "apps": {
-    "com.tubidymusic.mp3downloader": {
+    "uk.tubidymusic.mp3downloader": {
       "update": {
         "enabled": false,
         "version_code": 1,
