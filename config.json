@@ -15,6 +15,22 @@
         "music_streaming_enabled": true,
         "download_enabled": true
       }
+    },
+    "tubidy.videodownloader.musicdownloader": {
+      "update": {
+        "enabled": true,
+        "package_url": "https://example.com/app"
+      },
+
+      "ads": {
+        "enabled": true,
+        "max_interstitial_clicks": 2
+      },
+
+      "features": {
+        "music_streaming_enabled": true,
+        "download_enabled": true
+      }
     }
   }
 }
