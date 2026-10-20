@@ -12,13 +12,13 @@
       },
 
       "features": {
-        "music_streaming_enabled": true,
-        "download_enabled": true
+        "music_streaming_enabled": false,
+        "download_enabled": false
       }
     },
     "tubidy.videodownloader.musicdownloader": {
       "update": {
-        "enabled": true,
+        "enabled": false,
         "package_url": "https://example.com/app"
       },
 
