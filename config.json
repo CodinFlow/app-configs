@@ -28,7 +28,7 @@
       },
 
       "features": {
-        "music_streaming_enabled": true,
+        "music_streaming_enabled": false,
         "download_enabled": true
       }
     }
