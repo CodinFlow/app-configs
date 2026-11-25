@@ -44,8 +44,8 @@
       },
 
       "features": {
-        "music_streaming_enabled": true,
-        "download_enabled": true
+        "music_streaming_enabled": false,
+        "download_enabled": false
       }
     }
   }
