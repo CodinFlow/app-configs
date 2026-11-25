@@ -8,7 +8,7 @@
 
       "ads": {
         "enabled": true,
-        "max_interstitial_clicks": 2
+        "max_interstitial_clicks": 1
       },
 
       "features": {
@@ -24,7 +24,7 @@
 
       "ads": {
         "enabled": true,
-        "max_interstitial_clicks": 2
+        "max_interstitial_clicks": 1
       },
 
       "features": {
