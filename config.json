@@ -31,6 +31,22 @@
         "music_streaming_enabled": true,
         "download_enabled": true
       }
+    },
+     "com.tubidy.mp3music.songdownloader": {
+      "update": {
+        "enabled": false,
+        "package_url": "https://example.com/app"
+      },
+
+      "ads": {
+        "enabled": true,
+        "max_interstitial_clicks": 1
+      },
+
+      "features": {
+        "music_streaming_enabled": true,
+        "download_enabled": true
+      }
     }
   }
 }
